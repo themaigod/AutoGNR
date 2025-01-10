@@ -2,8 +2,6 @@
 AutoGNR (Automated GNN with Non-Recursive massage passing) is an automated method for heterogeneous information networks.  
 All the command sections start on the current folder. 
 
-Find this repository: https://github.com/themaigod/AutoGNR.git
-
 ## Environment
 
 The experiment is running on GPU. So you may need to download these from Nvidia:
